@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuizPracticeDemo
+namespace QuizPracticeDemoNamespace
 {
+
     class Program
-    {
-        static void Main(string[] args)
+    {      
+        public static void Main(string[] args)
         {
+           
             Console.WriteLine("What's 3+5?\na. 5\nb. 6\nc. 7\nd. 8");
             char answer = Console.ReadKey().KeyChar; //Convert.ToChar(Console.ReadKey().Key);
             Console.WriteLine();
@@ -31,6 +33,9 @@ namespace QuizPracticeDemo
                     Console.WriteLine("Invalid Answer");
                     break;
             }
+
+
+
         }
     }
 }
