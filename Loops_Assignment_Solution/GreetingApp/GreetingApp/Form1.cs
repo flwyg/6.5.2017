@@ -17,6 +17,20 @@ namespace GreetingApp
             InitializeComponent();
         }
 
+        private string GetTitle(char gender)
+        {
+            string title = "";//declar + init
+            if (gender == 'M')
+            {
+                title = "Mr.";
+            }
+            if (gender == 'F')
+            {
+                title = "Ms.";
+            }
+            return title;
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             string firstName = textBox1.Text;
@@ -34,15 +48,6 @@ namespace GreetingApp
                 gender = 'F';//init
             }
 
-            string title = "";//declar + init
-            if(gender=='M')
-            {
-                title = "Mr.";
-            }
-            if (gender == 'F')
-            {
-                title = "Ms.";
-            }
 
             string greetings = "";
             int hour = DateTime.Now.Hour;
@@ -54,8 +59,8 @@ namespace GreetingApp
             {
                 greetings = "Good Day";
             }
-
-            string greetingMessage = greetings + "! " + title + " " + lastName + ", Age " + age;
+            string title = GetTitle(gender);
+            string greetingMessage = greetings + "! " + title  + " " + lastName + ", Age " + age;
 
             MessageBox.Show(greetingMessage);
             
