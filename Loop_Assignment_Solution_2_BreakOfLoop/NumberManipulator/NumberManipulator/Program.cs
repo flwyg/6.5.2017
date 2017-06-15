@@ -8,6 +8,21 @@ namespace NumberManipulator
 {
     class Program
     {
+        int aNumber = 0;
+
+        public int A
+        {
+            get
+            {
+                return aNumber;
+            }
+
+            set
+            {
+                aNumber = value;
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Give me a number: ");
