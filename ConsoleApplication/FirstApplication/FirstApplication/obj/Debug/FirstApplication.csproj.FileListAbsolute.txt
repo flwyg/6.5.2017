@@ -4,3 +4,9 @@ C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\Summer\1\1\FirstA
 C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\Summer\1\1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
 C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\Summer\1\1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
 C:\Users\HelloWare Academy\Desktop\HelloWare\HelloWare Academy\Summer\1\1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\HelloWare Academy\Documents\GitHub\6.5.2017\ConsoleApplication\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache

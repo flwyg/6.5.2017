@@ -10,7 +10,10 @@ namespace FirstApplication
     {
         static void Main(string[] args)
         {
-            
+            double firstDouble = 3.14;
+            double secondDouble = 2.22;
+            Console.WriteLine("ssss "+ Environment.NewLine+" fsfsfsff");
+            Console.WriteLine("ssss\tfsfsfsff");
         }
     }
 }
